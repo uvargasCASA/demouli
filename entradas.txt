@@ -1,0 +1,2 @@
+export TF_VAR_aws_billing_code="ACCT8675000Uli"
+export TF_VAR_aws_project="web-app-de-uli"
